@@ -1,6 +1,11 @@
+# Description
+
+This code is an example of a MIT rule scripting in python
+
 # MIT rule
 
-It's a rule to adaptive control, for make a system follow a target system 
+It's a rule to adaptive control, for make a system follow a target system
+
 
 # More Info
 
